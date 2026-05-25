@@ -1,7 +1,7 @@
 # CrowdStrike "Blue Screen" Global Outage: A Memory Safety Failure Analysis
 ### CS50 Cybersecurity Final Project
 
-> **Project Video Demonstration:** [COLE_O_SEU_LINK_DO_YOUTUBE_AQUI]
+> **Project Video Demonstration:** https://youtu.be/3zhArlAs0f4
 
 ---
 
